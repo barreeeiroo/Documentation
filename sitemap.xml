@@ -291,6 +291,21 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/layout/lists/</loc>
+     <lastmod>2020-01-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/layout/lists/list-view/</loc>
+     <lastmod>2020-01-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/layout/lists/list-view-image-and-text/</loc>
+     <lastmod>2020-01-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/layout/views/</loc>
      <lastmod>2020-01-23</lastmod>
      <changefreq>daily</changefreq>
