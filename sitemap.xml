@@ -136,32 +136,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/user-interface/date-picker/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/image/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/state-progress-bar/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/label/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/list-picker/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/user-interface/circular-progress/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/user-interface/custom-progress/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/user-interface/date-picker/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -171,27 +156,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/user-interface/image/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/user-interface/label/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/user-interface/linear-progressbar/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/user-interface/snackbar/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/spotlight/</loc>
+     <loc>https://docs.kodular.io/components/user-interface/list-picker/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.kodular.io/components/user-interface/notifier/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/user-interface/custom-progress/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -211,7 +196,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/user-interface/snackbar/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/user-interface/spinner/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/user-interface/spotlight/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/user-interface/state-progress-bar/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -241,7 +241,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/layout/general/form/</loc>
+     <loc>https://docs.kodular.io/components/layout/general/card-view/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -261,17 +261,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/layout/general/card-view/</loc>
+     <loc>https://docs.kodular.io/components/layout/general/space/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.kodular.io/components/layout/general/swipe-refresh-layout/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/layout/general/space/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -311,7 +306,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/layout/views/gallery-viewer/</loc>
+     <loc>https://docs.kodular.io/components/layout/views/bottom-sheet/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -321,17 +316,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/layout/views/bottom-sheet/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/layout/views/view-flipper/</loc>
+     <loc>https://docs.kodular.io/components/layout/views/gallery-viewer/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.kodular.io/components/layout/views/surface-view/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/layout/views/view-flipper/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -386,12 +381,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/media/image-picker/</loc>
+     <loc>https://docs.kodular.io/components/media/exoplayer/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/media/exoplayer/</loc>
+     <loc>https://docs.kodular.io/components/media/image-picker/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -661,6 +656,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/storage/cloudinary/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/storage/file/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
@@ -671,17 +671,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/storage/spreadsheet/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/storage/cloudinary/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/storage/sqlite/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/storage/spreadsheet/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -701,6 +696,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/utilities/animation-utilities/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/utilities/audio/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
@@ -711,22 +711,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/utilities/decoration/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/utilities/device-utilities/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/utilities/color-utilities/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.kodular.io/components/utilities/cryptography/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/utilities/decoration/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/utilities/device-utilities/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -746,27 +746,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/utilities/resource-utilities/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/utilities/animation-utilities/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/utilities/shell/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/utilities/package-utilities/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/utilities/resource-utilities/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/utilities/screenshot/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/utilities/shell/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -781,6 +776,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/dynamic/dynamic-button/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/dynamic/dynamic-card-view/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
@@ -791,17 +791,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/dynamic/dynamic-space/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/dynamic/dynamic-button/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/dynamic/dynamic-label/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/dynamic/dynamic-space/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -817,6 +812,11 @@
     </url>
     <url>
      <loc>https://docs.kodular.io/components/connectivity/activity-starter/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/connectivity/arduino/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -837,11 +837,6 @@
     </url>
     <url>
      <loc>https://docs.kodular.io/components/connectivity/download/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/connectivity/arduino/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -871,22 +866,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/google/firebase-database/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/google/google-account-picker/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/google/google-maps/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/google/firebase-authentication/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/google/firebase-database/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -897,6 +882,16 @@
     </url>
     <url>
      <loc>https://docs.kodular.io/components/google/firebase-storage/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/google/google-account-picker/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/google/google-maps/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -936,6 +931,26 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/adcolony-interstitial/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/admob-banner/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/admob-interstitial/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/admob-rewarded-video/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/monetization/advertising/amazon-banner/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
@@ -946,32 +961,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/admob-interstitial/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/admob-banner/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/admob-rewarded-video/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/adcolony-interstitial/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://docs.kodular.io/components/monetization/advertising/applovin-interstitial/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/facebook-banner/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/facebook-interstitial/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.kodular.io/components/monetization/advertising/facebook-rewarded-video/</loc>
+     <lastmod>2020-01-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.kodular.io/components/monetization/advertising/leadbolt/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -987,21 +997,6 @@
     </url>
     <url>
      <loc>https://docs.kodular.io/components/monetization/advertising/unity-ads-interstitial/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/leadbolt/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/facebook-banner/</loc>
-     <lastmod>2020-01-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://docs.kodular.io/components/monetization/advertising/facebook-interstitial/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -1106,12 +1101,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/experimental/in-app-update/</loc>
+     <loc>https://docs.kodular.io/components/experimental/custom-tabs/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/experimental/custom-tabs/</loc>
+     <loc>https://docs.kodular.io/components/experimental/in-app-update/</loc>
      <lastmod>2020-01-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
