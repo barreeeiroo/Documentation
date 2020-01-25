@@ -671,12 +671,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/storage/sqlite/</loc>
+     <loc>https://docs.kodular.io/components/storage/spreadsheet/</loc>
      <lastmod>2020-01-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.kodular.io/components/storage/spreadsheet/</loc>
+     <loc>https://docs.kodular.io/components/storage/sqlite/</loc>
      <lastmod>2020-01-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
